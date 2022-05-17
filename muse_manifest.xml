@@ -1,0 +1,225 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="esto_es_una_prueba.com" resolutions="1x" timestamp="1652811104460">
+  <folder name="assets">
+    <file name="bbva-ela-catalog-v03.pdf" crc="150145901" seo="true" mt="1652732348000"/>
+    <file name="app-modernization-7-8-y-9-junio.pdf" crc="137505937" seo="true" mt="1652735876000"/>
+    <file name="cp4i-29-y-30-junio-clientes.pdf" crc="160792843" seo="true" mt="1652735906000"/>
+    <file name="datastage-workshop-invite-1.pdf" crc="4227870728" seo="true" mt="1652735969000"/>
+    <file name="cp4ba_filenet_workshop_lab.pdf" crc="472583508" seo="true" mt="1652736002000"/>
+    <file name="0_ocp_assessment_datasheet.pdf" crc="533455243" seo="true" mt="1652810672000"/>
+    <file name="0_cybersecurity_assessment_datasheet.pdf" crc="4185593264" seo="true" mt="1652810670000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="249979088"/>
+    <file name="index.css" crc="192542574" ref="index"/>
+    <file name="csm-detail.css" crc="4078020512" ref="csm-detail"/>
+    <file name="ibm-csm-portal.css" crc="3770593611" ref="ibm-csm-portal"/>
+    <file name="master_master_2.css" crc="4067939959" ref="index"/>
+    <file name="master_master_1.css" crc="37282912" ref="csm-detail:ibm-csm-portal:cp-entitlements:assessment:workshops:deployment-plan"/>
+    <file name="cp-entitlements.css" crc="4230760643" ref="cp-entitlements"/>
+    <file name="assessment.css" crc="130514569" ref="assessment"/>
+    <file name="workshops.css" crc="75037702" ref="workshops"/>
+    <file name="deployment-plan.css" crc="28090388" ref="deployment-plan"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:csm-detail:ibm-csm-portal:cp-entitlements:assessment:deployment-plan:workshops"/>
+    <file name="museutils.js" crc="3939489907" ref="index:csm-detail:ibm-csm-portal:cp-entitlements:assessment:deployment-plan:workshops"/>
+    <file name="whatinput.js" crc="86476730" ref="index:csm-detail:ibm-csm-portal:cp-entitlements:assessment:deployment-plan:workshops"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:csm-detail:ibm-csm-portal:cp-entitlements:assessment:deployment-plan:workshops"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:csm-detail:ibm-csm-portal:cp-entitlements:assessment:deployment-plan:workshops"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="ibm-csm-portal:index:csm-detail:cp-entitlements:assessment:workshops"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="csm-detail:ibm-csm-portal:cp-entitlements:assessment:deployment-plan:workshops"/>
+    <file name="html5shiv.js" crc="4241844378" ref="csm-detail:ibm-csm-portal:index:cp-entitlements:assessment:deployment-plan:workshops"/>
+    <file name="require.js" crc="4177726516" ref="index:csm-detail:ibm-csm-portal:cp-entitlements:assessment:deployment-plan:workshops"/>
+    <file name="webpro.js" crc="3856315280" ref="index:ibm-csm-portal"/>
+    <file name="form_check.php" crc="4108222811" ref="index"/>
+    <file name="form_throttle.php" crc="503802655" ref="index"/>
+    <file name="form_process.php" crc="260214869" ref="index"/>
+    <file name="form-u15232.php" crc="3943293820" ref="index"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="ibm-csm-portal"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="ibm-csm-portal"/>
+    <file name="touchswipe.js" crc="3888935200" ref="ibm-csm-portal"/>
+  </folder>
+  <folder name="images">
+    <file name="ibm-logo-black-and-white.png" crc="445579701" ref="ibm-csm-portal:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="csm-detail" alt=""/>
+      <caption webpage="ibm-csm-portal" alt=""/>
+    </file>
+    <file name="u133-4.png" crc="237387431" ref="csm-detail:ibm-csm-portal:cp-entitlements:assessment:deployment-plan:workshops"/>
+    <file name="u269-5.png" crc="3782421263" ref="csm-detail:ibm-csm-portal:cp-entitlements:assessment:deployment-plan:workshops"/>
+    <file name="u728-4.png" crc="4234747816" ref="csm-detail:ibm-csm-portal:cp-entitlements:assessment:deployment-plan:workshops"/>
+    <file name="u758-4.png" crc="222568036" ref="csm-detail:ibm-csm-portal:cp-entitlements:assessment:deployment-plan:workshops"/>
+    <file name="u248-4.png" crc="206305789" ref="csm-detail:ibm-csm-portal:cp-entitlements:assessment:deployment-plan:workshops"/>
+    <file name="u227-4.png" crc="4282218339" ref="csm-detail:ibm-csm-portal:cp-entitlements:assessment:deployment-plan:workshops"/>
+    <file name="u206-5.png" crc="4021655778" ref="csm-detail:ibm-csm-portal:cp-entitlements:assessment:deployment-plan:workshops"/>
+    <file name="u549-4.png" crc="279806990" ref="csm-detail:ibm-csm-portal:cp-entitlements:assessment:deployment-plan:workshops"/>
+    <file name="u681-4.png" crc="189645146" ref="csm-detail:ibm-csm-portal:cp-entitlements:assessment:deployment-plan:workshops"/>
+    <file name="u660-4.png" crc="4245262667" ref="csm-detail:ibm-csm-portal:cp-entitlements:assessment:deployment-plan:workshops"/>
+    <file name="u639-4.png" crc="382890765" ref="csm-detail:ibm-csm-portal:cp-entitlements:assessment:deployment-plan:workshops"/>
+    <file name="u618-4.png" crc="305558065" ref="csm-detail:ibm-csm-portal:cp-entitlements:assessment:deployment-plan:workshops"/>
+    <file name="4801315_glass_magnifier_magnifying_search_searching_icon.svg" crc="4030577851" ref="ibm-csm-portal"/>
+    <file name="4801315_glass_magnifier_magnifying_search_searching_icon_poster_u997.png" crc="4135044460" ref="ibm-csm-portal"/>
+    <file name="9054995_bx_user_icon (1).svg" crc="4003645911" ref="ibm-csm-portal"/>
+    <file name="9054995_bx_user_icon (1)_poster_u981.png" crc="273209896" ref="ibm-csm-portal"/>
+    <file name="352539_menu_icon.svg" crc="4062668015" ref="ibm-csm-portal"/>
+    <file name="352539_menu_icon_poster_u1591.png" crc="4204733181" ref="ibm-csm-portal"/>
+    <file name="4213410_arrow_down_download_move_save_icon.svg" crc="3958576373" ref="ibm-csm-portal"/>
+    <file name="4213410_arrow_down_download_move_save_icon_poster_u10595.png" crc="239842002" ref="ibm-csm-portal"/>
+    <file name="u10979-7.png" crc="443368926" ref="ibm-csm-portal"/>
+    <file name="7055828_seo_chess_marketing_strategy_icon.svg" crc="221898645" ref="ibm-csm-portal"/>
+    <file name="7055828_seo_chess_marketing_strategy_icon_poster_u13172.png" crc="4292548881" ref="ibm-csm-portal"/>
+    <file name="u12978-7.png" crc="4048727838" ref="ibm-csm-portal"/>
+    <file name="u1645-6.png" crc="273554527" ref="ibm-csm-portal"/>
+    <file name="u1648-4.png" crc="4107238428" ref="ibm-csm-portal"/>
+    <file name="u1649-6.png" crc="4277820772" ref="ibm-csm-portal"/>
+    <file name="blank.gif" crc="4208392903" ref="ibm-csm-portal:index:csm-detail:cp-entitlements:assessment:deployment-plan:workshops"/>
+    <file name="u2251.png" crc="3889233987" ref="ibm-csm-portal"/>
+    <file name="u2251-r.png" crc="3889233987" ref="ibm-csm-portal"/>
+    <file name="8111413_rightlinearrow_right_arrow_direction_arrows_icon.svg" crc="348745649" ref="ibm-csm-portal:index:csm-detail:cp-entitlements:assessment:workshops"/>
+    <file name="8111413_rightlinearrow_right_arrow_direction_arrows_icon_poster_u3388.png" crc="4222284636" ref="ibm-csm-portal:index:csm-detail:cp-entitlements:assessment:workshops"/>
+    <file name="captura de pantalla 2022-05-15 012010.jpg" crc="274781108" ref="ibm-csm-portal">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="ibm-csm-portal" alt=""/>
+      <caption webpage="ibm-csm-portal" alt=""/>
+      <caption webpage="ibm-csm-portal" alt=""/>
+      <caption webpage="ibm-csm-portal" alt=""/>
+      <caption webpage="ibm-csm-portal" alt=""/>
+    </file>
+    <file name="8111413_rightlinearrow_right_arrow_direction_arrows_icon (1).svg" crc="203202003" ref="ibm-csm-portal"/>
+    <file name="8111413_rightlinearrow_right_arrow_direction_arrows_icon (1)_poster_u14845.png" crc="3814312812" ref="ibm-csm-portal"/>
+    <file name="u12674-7.png" crc="4266974061" ref="ibm-csm-portal"/>
+    <file name="3338982_business tools_graph_chart_level_up graph_icon-u5570-fr.png" crc="348367257" ref="ibm-csm-portal"/>
+    <file name="u7167-7.png" crc="187236437" ref="ibm-csm-portal"/>
+    <file name="descarga.jpg" crc="268417237" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="master_1-favicon.ico" crc="391973681" ref="ibm-csm-portal"/>
+    <file name="u15220-4.png" crc="3886052389" ref="index"/>
+    <file name="8680019_shield_user_line_icon.svg" crc="3934409432" ref="index"/>
+    <file name="8680019_shield_user_line_icon_poster_u15363.png" crc="209685933" ref="index"/>
+    <file name="u15226-6.png" crc="234840440" ref="index"/>
+    <file name="u15383-6.png" crc="100184337" ref="index"/>
+    <file name="u15346-4.png" crc="4069929354" ref="index"/>
+    <file name="211687_down_arrow_icon (2).svg" crc="232306679" ref="index"/>
+    <file name="211687_down_arrow_icon (2)_poster_u15355.png" crc="292075352" ref="index"/>
+    <file name="u15371-5.png" crc="4126893382" ref="index"/>
+    <file name="u15375.png" crc="4074076668" ref="index"/>
+    <file name="u15375-r.png" crc="4074076668" ref="index"/>
+    <file name="u15386-4.png" crc="4256783692" ref="index"/>
+    <file name="6137918_extension_file_format_pdf_document_icon.svg" crc="3942760163" ref="ibm-csm-portal"/>
+    <file name="6137918_extension_file_format_pdf_document_icon_poster_u15411.png" crc="490628463" ref="ibm-csm-portal"/>
+    <file name="211687_down_arrow_icon (3).svg" crc="3876355807" ref="ibm-csm-portal"/>
+    <file name="211687_down_arrow_icon (3)_poster_u15504.png" crc="4066467145" ref="ibm-csm-portal"/>
+    <file name="output-onlinepngtools (1).png" crc="210018998" ref="ibm-csm-portal">
+      <caption webpage="ibm-csm-portal" alt=""/>
+    </file>
+    <file name="u15842-4.png" crc="3890583760" ref="ibm-csm-portal"/>
+    <file name="u15852-4.png" crc="80277883" ref="ibm-csm-portal"/>
+    <file name="u15870-4.png" crc="4115988730" ref="ibm-csm-portal"/>
+    <file name="u15885.png" crc="4007467419" ref="ibm-csm-portal"/>
+    <file name="u15885-r.png" crc="4007467419" ref="ibm-csm-portal"/>
+    <file name="u15994-4.png" crc="424388871" ref="ibm-csm-portal:csm-detail:cp-entitlements:assessment:deployment-plan:workshops"/>
+    <file name="u15987_states.png" crc="84275331" ref="ibm-csm-portal:csm-detail:cp-entitlements:assessment:deployment-plan:workshops"/>
+    <file name="u15987_states-r.png" crc="84275331" ref="ibm-csm-portal:csm-detail:cp-entitlements:assessment:deployment-plan:workshops"/>
+    <file name="u15988_states.png" crc="4153849372" ref="ibm-csm-portal:csm-detail:cp-entitlements:assessment:deployment-plan:workshops"/>
+    <file name="u15988_states-r.png" crc="4153849372" ref="ibm-csm-portal:csm-detail:cp-entitlements:assessment:deployment-plan:workshops"/>
+    <file name="u15989_states.png" crc="530146347" ref="ibm-csm-portal:csm-detail:cp-entitlements:assessment:deployment-plan:workshops"/>
+    <file name="u15989_states-r.png" crc="530146347" ref="ibm-csm-portal:csm-detail:cp-entitlements:assessment:deployment-plan:workshops"/>
+    <file name="u15990_states.png" crc="4129301068" ref="ibm-csm-portal:csm-detail:cp-entitlements:assessment:deployment-plan:workshops"/>
+    <file name="u15990_states-r.png" crc="4129301068" ref="ibm-csm-portal:csm-detail:cp-entitlements:assessment:deployment-plan:workshops"/>
+    <file name="u15991_states.png" crc="3997564961" ref="ibm-csm-portal:csm-detail:cp-entitlements:assessment:deployment-plan:workshops"/>
+    <file name="u15991_states-r.png" crc="3997564961" ref="ibm-csm-portal:csm-detail:cp-entitlements:assessment:deployment-plan:workshops"/>
+    <file name="u16289-6.png" crc="525037431" ref="csm-detail"/>
+    <file name="3209308_customer_experience_human_mind_state_icon.svg" crc="417792739" ref="csm-detail"/>
+    <file name="3209308_customer_experience_human_mind_state_icon_poster_u16262.png" crc="105880668" ref="csm-detail"/>
+    <file name="9045489_user_certification_icon.svg" crc="334095594" ref="csm-detail"/>
+    <file name="9045489_user_certification_icon_poster_u16248.png" crc="49309048" ref="csm-detail"/>
+    <file name="5282542_linkedin_network_social network_linkedin logo_icon.svg" crc="444196752" ref="csm-detail"/>
+    <file name="5282542_linkedin_network_social network_linkedin logo_icon_poster_u16270.png" crc="3934959192" ref="csm-detail"/>
+    <file name="1469738_contact_email_envelope_inbox_mail_icon.svg" crc="165006945" ref="csm-detail"/>
+    <file name="1469738_contact_email_envelope_inbox_mail_icon_poster_u16281.png" crc="3938991810" ref="csm-detail"/>
+    <file name="u16215-7.png" crc="5074525" ref="csm-detail"/>
+    <file name="u16218-5.png" crc="4006421397" ref="csm-detail"/>
+    <file name="u16225-4.png" crc="103545910" ref="csm-detail"/>
+    <file name="u16223.png" crc="297055759" ref="csm-detail"/>
+    <file name="u16223-r.png" crc="297055759" ref="csm-detail"/>
+    <file name="davidl.jpg" crc="436306340" ref="csm-detail:ibm-csm-portal">
+      <caption webpage="csm-detail" alt=""/>
+      <caption webpage="ibm-csm-portal" alt=""/>
+    </file>
+    <file name="u16343-4.png" crc="388765197" ref="csm-detail"/>
+    <file name="u16292-4.png" crc="4194204031" ref="csm-detail"/>
+    <file name="u16295-4.png" crc="4042712624" ref="csm-detail"/>
+    <file name="u16301-4.png" crc="203730714" ref="csm-detail"/>
+    <file name="u16304-4.png" crc="3842491775" ref="csm-detail"/>
+    <file name="4.jpg" crc="3926756160" ref="ibm-csm-portal">
+      <caption webpage="ibm-csm-portal" alt=""/>
+    </file>
+    <file name="3.jpg" crc="414429375" ref="ibm-csm-portal">
+      <caption webpage="ibm-csm-portal" alt=""/>
+    </file>
+    <file name="2.jpg" crc="4258573810" ref="ibm-csm-portal">
+      <caption webpage="ibm-csm-portal" alt=""/>
+    </file>
+    <file name="1.jpg" crc="3925026238" ref="ibm-csm-portal">
+      <caption webpage="ibm-csm-portal" alt=""/>
+    </file>
+    <file name="u16580-4.png" crc="351416329" ref="ibm-csm-portal"/>
+    <file name="u16589-4.png" crc="257029552" ref="ibm-csm-portal"/>
+    <file name="u16583-4.png" crc="3979428656" ref="ibm-csm-portal"/>
+    <file name="u16592-4.png" crc="3995514037" ref="ibm-csm-portal"/>
+    <file name="u16699-3.png" crc="282892626" ref="cp-entitlements"/>
+    <file name="u16735-4.png" crc="3844241567" ref="cp-entitlements"/>
+    <file name="u16723-3.png" crc="282892626" ref="cp-entitlements"/>
+    <file name="u16738-4.png" crc="3960507000" ref="cp-entitlements"/>
+    <file name="u16741-4.png" crc="34062581" ref="cp-entitlements"/>
+    <file name="u16750-4.png" crc="147946482" ref="cp-entitlements"/>
+    <file name="u16744-4.png" crc="165959747" ref="cp-entitlements"/>
+    <file name="u16753-4.png" crc="230158767" ref="cp-entitlements"/>
+    <file name="u16747-4.png" crc="439869100" ref="cp-entitlements"/>
+    <file name="u16756-4.png" crc="353635221" ref="cp-entitlements"/>
+    <file name="5.jpg" crc="3865150575" ref="cp-entitlements">
+      <caption webpage="cp-entitlements" alt=""/>
+    </file>
+    <file name="6.svg" crc="490395943" ref="cp-entitlements"/>
+    <file name="6_poster_u16658.png" crc="4152143394" ref="cp-entitlements"/>
+    <file name="7.jpg" crc="4226158893" ref="cp-entitlements">
+      <caption webpage="cp-entitlements" alt=""/>
+    </file>
+    <file name="8.svg" crc="200070100" ref="cp-entitlements"/>
+    <file name="8_poster_u16674.png" crc="4206846500" ref="cp-entitlements"/>
+    <file name="9.svg" crc="4102385999" ref="cp-entitlements"/>
+    <file name="9_poster_u16682.png" crc="167129394" ref="cp-entitlements"/>
+    <file name="u16763-4.png" crc="486377583" ref="cp-entitlements"/>
+    <file name="u16761.png" crc="2249507" ref="cp-entitlements"/>
+    <file name="u16761-r.png" crc="2249507" ref="cp-entitlements"/>
+    <file name="u16933-4.png" crc="413277604" ref="assessment"/>
+    <file name="u16935-4.png" crc="257029552" ref="assessment"/>
+    <file name="u16982.png" crc="246768124" ref="assessment"/>
+    <file name="u16982-r.png" crc="246768124" ref="assessment"/>
+    <file name="u16934-4.png" crc="3853354248" ref="assessment"/>
+    <file name="u16936-4.png" crc="3995514037" ref="assessment"/>
+    <file name="u17019-4.png" crc="413277604" ref="workshops"/>
+    <file name="u17014-4.png" crc="257029552" ref="workshops"/>
+    <file name="u17018.png" crc="246768124" ref="workshops"/>
+    <file name="u17018-r.png" crc="246768124" ref="workshops"/>
+    <file name="u17011-4.png" crc="536541454" ref="workshops"/>
+    <file name="u17015-4.png" crc="3995514037" ref="workshops"/>
+    <file name="u17046-4.png" crc="351416329" ref="ibm-csm-portal"/>
+    <file name="u17050-4.png" crc="3851851533" ref="ibm-csm-portal"/>
+    <file name="u17047-4.png" crc="257029552" ref="ibm-csm-portal"/>
+    <file name="u17048-4.png" crc="3995514037" ref="ibm-csm-portal"/>
+  </folder>
+  <file name="index.html" crc="3931978814" seo="true" mt="1652808698532" redirect="true"/>
+  <file name="csm-detail.html" crc="348635155" seo="true" mt="1652810013899" redirect="true"/>
+  <file name="ibm-csm-portal.html" crc="531661982" seo="true" mt="1652811038063" redirect="true"/>
+  <file name="cp-entitlements.html" crc="79516288" seo="true" mt="1652810013899" redirect="true"/>
+  <file name="assessment.html" crc="3771081593" seo="true" mt="1652810721651" redirect="true"/>
+  <file name="deployment-plan.html" crc="245301492" seo="true" mt="1652810299068" redirect="true"/>
+  <file name="workshops.html" crc="4192224150" seo="true" mt="1652810013899" redirect="true"/>
+</manifest>
